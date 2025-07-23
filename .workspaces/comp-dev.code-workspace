@@ -22,5 +22,8 @@
 		],
 		"python.defaultInterpreterPath": "C:/Program Files/Derivative/TouchDesigner.2023.12370/bin/python.exe",
 		"workbench.colorTheme": "Default Dark Modern",
+		"cSpell.words": [
+			"imagen"
+		],
 	},
 }
